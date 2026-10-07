@@ -13,4 +13,6 @@ cd kiki-server-v1
 julia kiki-server-v1.jl
 ```
 
-# Star History
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/kiki-server-v1&type=Date)](https://star-history.com/#Iankulani/kiki-server-v1&Date)
